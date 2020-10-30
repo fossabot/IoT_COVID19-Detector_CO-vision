@@ -6,6 +6,8 @@
 **2019프로젝트, readme.md를 참고하여 개발자님의 새로운 프로젝트를 만들어주세요!**
 
 # Smaple Logo
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhyeon9698%2FIoT_COVID19-Detector_CO-vision.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhyeon9698%2FIoT_COVID19-Detector_CO-vision?ref=badge_shield)
+
 [추가 예정]
 
 팀명 텍스트 및 팀명 로고 이미지 **(택1)**
@@ -55,3 +57,6 @@ $ yarn start or npm run start
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhyeon9698%2FIoT_COVID19-Detector_CO-vision.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhyeon9698%2FIoT_COVID19-Detector_CO-vision?ref=badge_large)
